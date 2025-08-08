@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-primary: #f4e041;
+  --color-secondary: #00bdd3;
+  --color-background: #f8f8f8;
+  --color-text: #000000de;
+
+  /* Fonts */
+  --font-display: "Nunito", sans-serif;
+
+  /* Headings */
+  --font-heading: "Nunito", sans-serif;
+  --font-heading-weight: 400;
+  --font-heading-size: 40px;
+  --font-heading-line-height: 40px;
+
+  /* Body */
+  --font-body: "Nunito", sans-serif;
+  --font-body-weight: 400;
+  --font-body-size: 16px;
+  --font-body-line-height: 26px;
+
+  /* buttons */
+  --font-button: "Nunito", sans-serif;
+  --button-rounded: 8px;
+  --button-yellow: #f4e041;
+  --button-yellow-hover: #ffe100ff;
+  --button-disabled: #f4e04180;
+}
