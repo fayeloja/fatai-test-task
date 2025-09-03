@@ -2,30 +2,76 @@
 
 @theme {
   /* Colors */
-  --color-primary: #f4e041;
-  --color-secondary: #00bdd3;
-  --color-background: #f8f8f8;
-  --color-text: #000000de;
+  --color-*: initial;
+  --color-primary-yellow: #f4e041;
+  --color-secondary-blue: #00bdd3;
+  --color-background-light-gray: #f8f8f8;
+  --color-navbar-bg: #ffffff;
+  --color-text-dark: #000000de;
 
   /* Fonts */
   --font-display: "Nunito", sans-serif;
 
   /* Headings */
-  --font-heading: "Nunito", sans-serif;
   --font-heading-weight: 400;
   --font-heading-size: 40px;
   --font-heading-line-height: 40px;
 
   /* Body */
-  --font-body: "Nunito", sans-serif;
   --font-body-weight: 400;
   --font-body-size: 16px;
   --font-body-line-height: 26px;
 
   /* buttons */
-  --font-button: "Nunito", sans-serif;
-  --button-rounded: 8px;
+  --button-rounded: 80px;
   --button-yellow: #f4e041;
   --button-yellow-hover: #ffe100ff;
   --button-disabled: #f4e04180;
+}
+
+@layer base {
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  p {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 40px;
+  }
+
+  body {
+    background-color: var(--color-background-light-gray);
+    font-family: var(--font-display);
+    font-weight: var(--font-body-weight);
+    font-size: var(--font-body-size);
+    line-height: var(--font-body-line-height);
+  }
+}
+
+@layer components {
+  .card {
+    padding: 20px;
+  }
+
+  .button {
+    border-radius: var(--button-rounded);
+    background-color: var(--button-yellow);
+    color: var(--color-text-dark);
+    padding: 0 20px;
+
+    height: 34px;
+    transition: background-color 0.3s ease;
+    &:hover {
+      background-color: var(--button-yellow-hover);
+    }
+    &:disabled {
+      background-color: var(--button-disabled);
+      cursor: not-allowed;
+    }
+  }
 }

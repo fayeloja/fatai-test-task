@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Alice Johnson",
+    "title": "Frontend Developer",
+    "email": "alice.johnson@example.com",
+    "phone": "+1 (555) 123-4567"
+  },
+  {
+    "name": "Brian Smith",
+    "title": "Backend Developer",
+    "email": "brian.smith@example.com",
+    "phone": "+1 (555) 987-6543"
+  },
+  {
+    "name": "Carla Mendes",
+    "title": "UI/UX Designer",
+    "email": "carla.mendes@example.com",
+    "phone": "+44 20 7946 0011"
+  },
+  {
+    "name": "David Kim",
+    "title": "DevOps Engineer",
+    "email": "david.kim@example.com",
+    "phone": "+82 10-2345-6789"
+  },
+  {
+    "name": "Emily Zhang",
+    "title": "Full Stack Developer",
+    "email": "emily.zhang@example.com",
+    "phone": "+86 138-0011-2233"
+  },
+  {
+    "name": "Felix Müller",
+    "title": "Cloud Architect",
+    "email": "felix.mueller@example.com",
+    "phone": "+49 30 1234 5678"
+  },
+  {
+    "name": "Grace Oduro",
+    "title": "QA Engineer",
+    "email": "grace.oduro@example.com",
+    "phone": "+233 24 123 4567"
+  },
+  {
+    "name": "Hiroshi Tanaka",
+    "title": "Mobile Developer",
+    "email": "hiroshi.tanaka@example.com",
+    "phone": "+81 90-1234-5678"
+  },
+  {
+    "name": "Isabella Rossi",
+    "title": "Product Manager",
+    "email": "isabella.rossi@example.com",
+    "phone": "+39 06 123 4567"
+  },
+  {
+    "name": "James Brown",
+    "title": "Data Scientist",
+    "email": "james.brown@example.com",
+    "phone": "+1 (555) 765-4321"
+  },
+  {
+    "name": "Kevin Lee",
+    "title": "Software Engineer",
+    "email": "kevin.lee@example.com",
+    "phone": "+1 (555) 222-3344"
+  },
+  {
+    "name": "Laura Chen",
+    "title": "Frontend Developer",
+    "email": "laura.chen@example.com",
+    "phone": "+1 (555) 222-7788"
+  },
+  {
+    "name": "Michael Green",
+    "title": "Backend Engineer",
+    "email": "michael.green@example.com",
+    "phone": "+1 (555) 333-1111"
+  },
+  {
+    "name": "Nina Patel",
+    "title": "Scrum Master",
+    "email": "nina.patel@example.com",
+    "phone": "+44 20 9999 2222"
+  },
+  {
+    "name": "Oscar Rivera",
+    "title": "Security Engineer",
+    "email": "oscar.rivera@example.com",
+    "phone": "+34 91 222 3344"
+  },
+  {
+    "name": "Priya Nair",
+    "title": "AI Researcher",
+    "email": "priya.nair@example.com",
+    "phone": "+91 98765 12345"
+  },
+  {
+    "name": "Quincy Wright",
+    "title": "Systems Engineer",
+    "email": "quincy.wright@example.com",
+    "phone": "+1 (555) 888-9999"
+  },
+  {
+    "name": "Rafael Torres",
+    "title": "Site Reliability Engineer",
+    "email": "rafael.torres@example.com",
+    "phone": "+52 55 1234 5678"
+  },
+  {
+    "name": "Sara Müller",
+    "title": "Technical Writer",
+    "email": "sara.mueller@example.com",
+    "phone": "+49 40 1234 5678"
+  },
+  {
+    "name": "Tommy Andersson",
+    "title": "Frontend Developer",
+    "email": "tommy.andersson@example.com",
+    "phone": "+46 8 123 456"
+  },
+  {
+    "name": "Umair Khan",
+    "title": "Backend Developer",
+    "email": "umair.khan@example.com",
+    "phone": "+92 321 4567890"
+  },
+  {
+    "name": "Valeria Costa",
+    "title": "UI Designer",
+    "email": "valeria.costa@example.com",
+    "phone": "+55 21 98765 4321"
+  },
+  {
+    "name": "William Scott",
+    "title": "CTO",
+    "email": "william.scott@example.com",
+    "phone": "+1 (555) 555-5555"
+  },
+  {
+    "name": "Xiao Li",
+    "title": "Frontend Developer",
+    "email": "xiao.li@example.com",
+    "phone": "+86 139 8765 4321"
+  },
+  {
+    "name": "Yara Ibrahim",
+    "title": "QA Engineer",
+    "email": "yara.ibrahim@example.com",
+    "phone": "+20 111 222 3333"
+  },
+  {
+    "name": "Zane Walker",
+    "title": "DevOps Engineer",
+    "email": "zane.walker@example.com",
+    "phone": "+1 (555) 444-7777"
+  },
+  {
+    "name": "Amara Okafor",
+    "title": "Data Engineer",
+    "email": "amara.okafor@example.com",
+    "phone": "+234 803 123 4567"
+  },
+  {
+    "name": "Ben Thompson",
+    "title": "Frontend Developer",
+    "email": "ben.thompson@example.com",
+    "phone": "+1 (555) 123-9876"
+  },
+  {
+    "name": "Carmen Lopez",
+    "title": "Cloud Engineer",
+    "email": "carmen.lopez@example.com",
+    "phone": "+34 91 555 6666"
+  },
+  {
+    "name": "Diego Alvarez",
+    "title": "ML Engineer",
+    "email": "diego.alvarez@example.com",
+    "phone": "+52 55 8765 4321"
+  },
+  {
+    "name": "Evelyn Brooks",
+    "title": "Product Designer",
+    "email": "evelyn.brooks@example.com",
+    "phone": "+1 (555) 654-3210"
+  },
+  {
+    "name": "Farhan Ahmed",
+    "title": "Site Reliability Engineer",
+    "email": "farhan.ahmed@example.com",
+    "phone": "+971 50 123 4567"
+  },
+  {
+    "name": "Giulia Romano",
+    "title": "Project Manager",
+    "email": "giulia.romano@example.com",
+    "phone": "+39 06 765 4321"
+  },
+  {
+    "name": "Henry Adams",
+    "title": "QA Lead",
+    "email": "henry.adams@example.com",
+    "phone": "+1 (555) 111-8888"
+  },
+  {
+    "name": "Ingrid Svensson",
+    "title": "UX Researcher",
+    "email": "ingrid.svensson@example.com",
+    "phone": "+46 8 765 432"
+  },
+  {
+    "name": "Jonas Weber",
+    "title": "Full Stack Developer",
+    "email": "jonas.weber@example.com",
+    "phone": "+49 30 9876 5432"
+  },
+  {
+    "name": "Kofi Mensah",
+    "title": "Mobile Developer",
+    "email": "kofi.mensah@example.com",
+    "phone": "+233 24 765 4321"
+  },
+  {
+    "name": "Lina Novak",
+    "title": "UI/UX Designer",
+    "email": "lina.novak@example.com",
+    "phone": "+385 91 123 4567"
+  },
+  {
+    "name": "Mateo García",
+    "title": "Backend Developer",
+    "email": "mateo.garcia@example.com",
+    "phone": "+34 91 777 8888"
+  },
+  {
+    "name": "Nora Jensen",
+    "title": "Scrum Master",
+    "email": "nora.jensen@example.com",
+    "phone": "+45 32 123 456"
+  },
+  {
+    "name": "Omar Syed",
+    "title": "Cloud Architect",
+    "email": "omar.syed@example.com",
+    "phone": "+92 300 1234567"
+  },
+  {
+    "name": "Paula Gómez",
+    "title": "Frontend Developer",
+    "email": "paula.gomez@example.com",
+    "phone": "+57 310 123 4567"
+  },
+  {
+    "name": "Quinn Harris",
+    "title": "Software Engineer",
+    "email": "quinn.harris@example.com",
+    "phone": "+1 (555) 223-4455"
+  },
+  {
+    "name": "Ravi Sharma",
+    "title": "Data Scientist",
+    "email": "ravi.sharma@example.com",
+    "phone": "+91 98123 45678"
+  },
+  {
+    "name": "Sofia Petrova",
+    "title": "UI Designer",
+    "email": "sofia.petrova@example.com",
+    "phone": "+7 916 123 4567"
+  },
+  {
+    "name": "Theo Martin",
+    "title": "CTO",
+    "email": "theo.martin@example.com",
+    "phone": "+1 (555) 888-2222"
+  },
+  {
+    "name": "Ursula Meyer",
+    "title": "QA Engineer",
+    "email": "ursula.meyer@example.com",
+    "phone": "+49 40 9999 1111"
+  },
+  {
+    "name": "Victor Silva",
+    "title": "DevOps Engineer",
+    "email": "victor.silva@example.com",
+    "phone": "+55 11 98765 1234"
+  },
+  {
+    "name": "Wang Wei",
+    "title": "Backend Developer",
+    "email": "wang.wei@example.com",
+    "phone": "+86 137 8888 9999"
+  },
+  {
+    "name": "Yvonne Carter",
+    "title": "Product Manager",
+    "email": "yvonne.carter@example.com",
+    "phone": "+1 (555) 444-8888"
+  },
+  {
+    "name": "Zara Ali",
+    "title": "Frontend Developer",
+    "email": "zara.ali@example.com",
+    "phone": "+971 55 123 9876"
+  }
+]
